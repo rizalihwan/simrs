@@ -1,0 +1,33 @@
+.title-graphic
+{
+    margin-right: -5px;
+    font-size: initial;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.blue
+{
+    color: rgb(46, 46, 243);
+}
+.red
+{
+    color: red;
+}
+.green
+{
+    color: green;
+}
+.yellow
+{
+    color: rgb(39, 194, 186);
+}
+.bold
+{
+    font-weight: bold;
+}
+.delete-button
+{
+    margin-top: 2px;
+    width: 125px;
+}
+
