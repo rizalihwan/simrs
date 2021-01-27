@@ -1,7 +1,7 @@
 <!-- NAVBAR -->
 		<nav class="navbar navbar-default navbar-fixed-top">
 			<div class="brand">
-				<a href="{{ route('home') }}"><div class="bold" style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">HealtyHome</div></a>
+				<a href="{{ route('home') }}"><div class="bold" style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">SIMRS</div></a>
 			</div>
 			<div class="container-fluid">
 				<div class="navbar-btn">
