@@ -9,8 +9,8 @@
 
 ## Installation
 1. Open your terminal and go to your `~/htdocs` folder.
-2. Clone this repository `git clone https://github.com/rizalihwan/LARAVEL-SIMRS.git`
-3. Go inside to folder by `cd LARAVEL-SIMRS`
+2. Clone this repository `git clone https://github.com/rizalihwan/simrs.git`
+3. Go inside to folder by `cd simrs`
 4. Run `composer install`
 5. Create `.env` file with command `cp .env.example .env`
 6. Generate key inside `.env` file by `php artisan generate:key`
